@@ -47,4 +47,4 @@ def part_one():
     power_consumption = binToDecimal(gamma_rate) * binToDecimal(epsilon_rate)
     print(f"Power Consumption: {power_consumption}")
 
-part_one()
+# part_one()
